@@ -24,7 +24,7 @@ cd unisat
 
 // 1. add your mnemonic phrases to wallets.txt (replace wallets.example.txt -> wallets.txt)
 // 2. edit settings in data/project.config.ts
-// 3. in project.config.ts insert unisatAPIKey, you can get him on https://developer.unisat.io/dashboard
+// 3. in project.config.ts insert unisatAPIKey, you can get it on https://developer.unisat.io/dashboard
 // not need, but you can compile ts to js files
 
 npm i or npm install
@@ -44,4 +44,4 @@ npm run start
 4. Deploy rune on Unisat
 
 ---
-Look for all updates and other developments hereг –– https://t.me/sybilwave
+Look for all updates and other developments here –– https://t.me/sybilwave
